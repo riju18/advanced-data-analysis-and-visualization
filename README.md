@@ -13,3 +13,5 @@
  ![animation-2](https://user-images.githubusercontent.com/18087611/72625464-0b30ef00-3973-11ea-8870-c01915b73ce7.JPG)
  
  ![advance data preparation](https://user-images.githubusercontent.com/18087611/72625468-0b30ef00-3973-11ea-87e3-808448fe71c3.JPG)
+ 
+ Inspired by "superDataScience"
